@@ -4,8 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Payroll", "Payroll-Students3k.com\Payroll.csproj", "{59DE23CF-C29F-4127-B196-74E0B6E82B1C}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFramework = "3.5"
-		Debug.AspNetCompiler.VirtualPath = "/Payroll-Students3k.com""
-		Debug.AspNetCompiler.PhysicalPath = "Payroll-Students3k.com"\"
+		Debug.AspNetCompiler.VirtualPath = "/Payroll-Students3k.com"
+		Debug.AspNetCompiler.PhysicalPath = "Payroll-Students3k.com\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Payroll\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
